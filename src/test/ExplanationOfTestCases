@@ -1,0 +1,9 @@
+test01- This TC case aims to get all universities whose name contains the word "middle"
+
+test02- This TC is checks is the Middle East Technical University is in the response list or not
+
+test03-  This TC focus on the universities just in Turkey
+
+test04-  This TC search the universities which has "Middle" word in the name and located in USA
+
+test05- This a negative TC , we expect this TC to fail , we search a country which does not have a university that has a word "middle" in the name

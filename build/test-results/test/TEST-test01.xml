@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test01" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-23T13:53:17" hostname="SAMISENA" time="2.922">
+  <properties/>
+  <testcase name="get()" classname="test01" time="2.922"/>
+  <system-out><![CDATA[[American University of Middle East, Middlebury College, Middle East University, Middle East Technical University, Middle Georgia State College, Middle Tennessee State University, Middlesex Community College, Middlesex County College, Middlesex University, Middlesbrough College]
+The test is succesfull
+The test is succesfull
+The test is succesfull
+The test is succesfull
+The test is succesfull
+The test is succesfull
+The test is succesfull
+The test is succesfull
+The test is succesfull
+The test is succesfull
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
